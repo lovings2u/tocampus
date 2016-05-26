@@ -45,14 +45,10 @@ class HomeController < ApplicationController
       puts params[:error_type]
       case params[:error_type]
         when "1" then 
-          puts "1 support"
           @result_message = Bus.send_bus_time_error(params[:funiv_id], params[:tuniv_id], params[:sta_data], params[:bus_data], params[:route_index])
         when "2" then 
-          puts "2 support"
           @result_message = Station.send_route_info_lack(params[:funiv_id], params[:tuniv_id])
-        else "unknown"
-          puts "error"
-        puts @result_message
+        else 
       end
     rescue
       @result_message = "오류정보 전송이 실패하였습니다.\n다시 시도해주세요.\n 감사합니다."

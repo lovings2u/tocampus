@@ -23,7 +23,7 @@ class Station < ActiveRecord::Base
     
     def self.send_route_info_lack(from_univ, to_univ)
         result_message = ""
-        mail_contents = "#{f_name}에서 #{t_name}로 가는 노선 정보가 매우 부족하거나 혹은.\n"+
+        mail_contents = "#{from_univ}에서 #{to_univ}로 가는 노선 정보가 매우 부족하거나 혹은.\n"+
                         "정보가 잘못되었습니다. 확인하시기 바랍니다."
 
         mg_client = Mailgun::Client.new("key-3b85a1b74913346a0b3c407fae2c9986")
@@ -36,6 +36,6 @@ class Station < ActiveRecord::Base
                           }
         
         mg_client.send_message('sandboxdbf2aecd8b5f4a72b7c66d017cbfa090.mailgun.org', message_params).to_h!
-        result_message = "오류정보가 전달되었습니다.\n 빠른 시간 안에 해결하겠습니다.\n 감사합니다."
+        result_message = "오류정보가 전달되었습니다.\n 빠른 시간 안에 해결하겠습니다.\n감사합니다."
     end
 end
