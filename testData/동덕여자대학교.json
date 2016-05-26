@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"한국과학기술연구원입구",
+			"gpsX":"127.04488",
+			"stationId":"107000045",
+			"gpsY":"37.60426",
+			"arsId":"08135",
+			"dist":"305"
+		},
+		{
+			"gpsX": "127.040843",
+			"stationNm": "동덕여대후문",
+			"gpsY": "37.606624",
+			"stationId": "107900044",
+			"arsId": "08527",
+			"dist": "168"
+		}
+	]
+}

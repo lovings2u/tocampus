@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.05286",
+			"stationNm": "새석관시장",
+			"gpsY": "37.608444",
+			"stationId": "107000049",
+			"arsId": "08139"
+		},
+		{
+			"stationNm":"석관동새마을금고",
+			"gpsX":"127.060774",
+			"stationId":"107000124",
+			"gpsY":"37.607329",
+			"arsId":"08214"
+		}
+	]
+}

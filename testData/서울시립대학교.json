@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"서울성심병원",
+			"gpsX":"127.050898",
+			"stationId":"105000030",
+			"gpsY":"37.584607",
+			"arsId":"06114",
+			"dist": "350"
+		},
+		{
+			"gpsX": "127.05394",
+			"stationNm": "서울시립대학교앞",
+			"gpsY": "37.58268",
+			"stationId": "105000103",
+			"arsId": "06189",
+			"dist": "247"
+		}
+	]
+}

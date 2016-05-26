@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.99477",
+			"stationNm": "국민대학교앞",
+			"gpsY": "37.610722",
+			"stationId": "107000020",
+			"arsId": "08110",
+			"dist": "184"
+		},
+		{
+			"gpsX": "126.994306",
+			"stationNm": "국민대앞",
+			"gpsY": "37.61093",
+			"stationId": "107000018",
+			"arsId": "08108",
+			"dist": "235"
+		}
+	]
+}

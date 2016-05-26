@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.09132",
+			"stationNm": "육군사관학교정문",
+			"gpsY": "37.623907",
+			"stationId": "110000042",
+			"arsId": "11142"
+		},
+		{
+			"gpsX": "127.086088",
+			"stationNm": "우방아파트",
+			"gpsY": "37.62607",
+			"stationId": "110000035",
+			"arsId": "11135"
+		}
+	]
+}

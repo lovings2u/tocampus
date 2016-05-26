@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"충무로역2번출구.대한극장앞",
+			"gpsX":"126.994918",
+			"stationId":"101000054",
+			"gpsY":"37.561223",
+			"arsId":"02153"
+		},
+		{
+			"stationNm":"장충동.동국대입구",
+			"gpsX":"127.005629",
+			"stationId":"101000100",
+			"gpsY":"37.560666",
+			"arsId":"02204"
+		}
+	]
+}

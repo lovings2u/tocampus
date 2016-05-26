@@ -1,0 +1,27 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.958907",
+			"posY": "445303.7800999242",
+			"stationNm": "중앙대정문",
+			"gpsY": "37.507145",
+			"posX": "196367.1458669943",
+			"stationId": "119000113",
+			"stationTp": "0",
+			"arsId": "20206",
+			"dist": "55"
+		},
+		{
+			"stationNm":"흑석역.명수대현대아파트",
+			"gpsX":"126.964641",
+			"stationId":"119000128",
+			"gpsY":"37.50773",
+			"arsId":"20224",
+			"dist": "190"
+		}
+	]
+}

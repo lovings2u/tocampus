@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.075502",
+			"stationNm": "어린이대공원앞.세종대학교",
+			"gpsY": "37.54977",
+			"stationId": "104000158",
+			"arsId": "05251",
+			"dist": "92"
+		},
+		{
+			"gpsX": "127.076031",
+			"stationNm": "세종대학교",
+			"gpsY": "37.549855",
+			"stationId": "104000260",
+			"arsId": "05699",
+			"dist": "149"
+		}
+	]
+}

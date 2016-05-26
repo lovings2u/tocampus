@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.923549",
+			"stationNm": "명지대",
+			"gpsY": "37.579137",
+			"stationId": "112000111",
+			"arsId": "13194"
+		},
+		{
+			"stationNm":"명지중고등학교",
+			"gpsX":"126.925558",
+			"stationId":"112000135",
+			"gpsY":"37.582674",
+			"arsId":"13218"
+		}
+	]
+}

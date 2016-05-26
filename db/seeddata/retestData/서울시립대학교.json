@@ -1,0 +1,23 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"떡전교사거리.동대문노인복지관",
+			"gpsX":"127.052109",
+			"stationId":"105000014",
+			"gpsY":"37.586498",
+			"arsId":"06014"
+		},
+		{
+			"gpsX": "127.054056",
+			"stationNm": "서울시립대입구",
+			"gpsY": "37.583006",
+			"stationId": "105000102",
+			"arsId": "06188"
+		}
+		
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.04332",
+			"stationNm": "한양대정문앞",
+			"gpsY": "37.556773",
+			"stationId": "103000031",
+			"arsId": "04130",
+			"dist": "113"
+		},
+		{
+			"stationNm":"왕십리역",
+			"gpsX":"127.034875",
+			"stationId":"103000036",
+			"gpsY":"37.56079",
+			"arsId":"04135",
+			"dist": "400"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.011699",
+			"stationNm": "서경대본관",
+			"gpsY": "37.615595",
+			"stationId": "107000275",
+			"arsId": "08373",
+			"dist": "198"
+		},
+		{
+			"stationNm":"신안APT.길음초등학교",
+			"gpsX":"127.01642",
+			"stationId":"107900284",
+			"gpsY":"37.614224",
+			"arsId":"08453",
+			"dist": "258"
+		}
+	]
+}

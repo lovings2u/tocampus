@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"흑석역.명수대현대아파트",
+			"gpsX":"126.964641",
+			"stationId":"119000128",
+			"gpsY":"37.50773",
+			"arsId":"20224"
+		},
+		{
+			"gpsX": "126.958907",
+			"stationNm": "중앙대정문",
+			"gpsY": "37.507145",
+			"stationId": "119000113",
+			"arsId": "20206"
+		}
+	]
+}

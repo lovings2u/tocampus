@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.01621",
+			"stationNm": "서울교대정문앞",
+			"gpsY": "37.488934",
+			"stationId": "121000031",
+			"arsId": "22107"
+		},
+		{
+			"stationNm":"지하철3호선교대역",
+			"gpsX":"127.01419",
+			"stationId":"121000025",
+			"gpsY":"37.491782",
+			"arsId":"22101"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.060164",
+			"stationNm": "새마을금고앞",
+			"gpsY": "37.597789",
+			"stationId": "105900013",
+			"arsId": "06535",
+			"dist": "127"
+		},
+		{
+			"stationNm":"외대앞",
+			"gpsX":"127.059768",
+			"stationId":"105000043",
+			"gpsY":"37.595481",
+			"arsId":"06127",
+			"dist": "110"
+		}
+	]
+}

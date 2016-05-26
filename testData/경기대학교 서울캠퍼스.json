@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"서대문역",
+			"gpsX":"126.96583",
+			"stationId":"112000403",
+			"gpsY":"37.566475",
+			"arsId":"13038",
+			"dist": "131"
+		},
+		{
+			"stationNm":"미동초등학교",
+			"gpsX":"126.964451",
+			"stationId":"112000157",
+			"gpsY":"37.563158",
+			"arsId":"13240",
+			"dist": "129"
+		}
+	]
+}

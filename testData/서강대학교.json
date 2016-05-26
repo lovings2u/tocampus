@@ -1,0 +1,27 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.939854",
+			"posY": "449939.1424834933",
+			"stationNm": "광성중고등학교",
+			"gpsY": "37.548906",
+			"posX": "194685.7161057296",
+			"stationId": "113000082",
+			"stationTp": "0",
+			"arsId": "14173",
+			"dist": "182"
+		},
+		{
+			"stationNm":"서강대학교후문",
+			"gpsX":"126.943946",
+			"stationId":"113000121",
+			"gpsY":"37.550495",
+			"arsId":"14212",
+			"dist": "180"
+		}
+	]
+}

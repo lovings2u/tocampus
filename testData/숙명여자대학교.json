@@ -1,0 +1,25 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.96431",
+			"stationNm": "숙명여대정문",
+			"gpsY": "37.545131",
+			"stationId": "102000140",
+			"arsId": "03234",
+			"dist": "55"
+		},
+		{
+			"stationNm":"숙대입구역",
+			"gpsX":"126.972232",
+			"stationId":"102000010",
+			"gpsY":"37.543756",
+			"arsId":"03010",
+			"dist": "201"
+		}
+		
+	]
+}

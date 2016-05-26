@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.951543",
+			"stationNm": "경영대",
+			"gpsY": "37.466006",
+			"stationId": "120000180",
+			"arsId": "21282",
+			"dist": "141"
+		},
+		{
+			"gpsX": "126.954601",
+			"stationNm": "수의대입구.보건대학원앞",
+			"gpsY": "37.466098",
+			"stationId": "120000179",
+			"arsId": "21281",
+			"dist": "275"
+		}
+	]
+}

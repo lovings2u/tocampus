@@ -1,0 +1,23 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.013972",
+			"stationNm": "국립4.19민주묘지입구사거리",
+			"gpsY": "37.649261",
+			"stationId": "108000021",
+			"arsId": "09109"
+		},
+		{
+			"gpsX": "127.017102",
+			"stationNm": "덕성여대후문.효문중고교앞",
+			"gpsY": "37.652691",
+			"stationId": "109900092",
+			"arsId": "10528"
+		}
+		
+	]
+}

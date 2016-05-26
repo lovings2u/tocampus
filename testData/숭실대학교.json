@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.956924",
+			"stationNm": "숭실대정문앞",
+			"gpsY": "37.495093",
+			"stationId": "119000076",
+			"arsId": "20169",
+			"dist": "109"
+		},
+		{
+			"stationNm":"숭실대입구역",
+			"gpsX":"126.953733",
+			"stationId":"119000073",
+			"gpsY":"37.496461",
+			"arsId":"20166",
+			"dist":"130"
+		}
+	]
+}

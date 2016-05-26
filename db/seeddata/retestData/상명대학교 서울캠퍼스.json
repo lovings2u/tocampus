@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"상명대입구",
+			"gpsX":"126.958194",
+			"stationId":"100000189",
+			"gpsY":"37.599572",
+			"arsId":"01287"
+		},
+		{
+			"stationNm":"상명대정문",
+			"gpsX":"126.955021",
+			"stationId":"100000180",
+			"gpsY":"37.60162",
+			"arsId":"01278"
+		}
+	]
+}

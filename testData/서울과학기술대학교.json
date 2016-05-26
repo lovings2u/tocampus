@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.078495",
+			"stationNm": "대학본부앞",
+			"gpsY": "37.632063",
+			"stationId": "110900137",
+			"arsId": "11936",
+			"dist": "58"
+		},
+		{
+			"gpsX": "127.077587",
+			"stationNm": "서울과학기술대학교정문앞",
+			"gpsY": "37.631185",
+			"stationId": "110900140",
+			"arsId": "11937",
+			"dist": "63"
+		}
+	]
+}

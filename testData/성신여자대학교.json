@@ -1,0 +1,25 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		
+		{
+			"gpsX": "127.019738",
+			"stationNm": "성신여대정문앞",
+			"gpsY": "37.590766",
+			"stationId": "107900016",
+			"arsId": "08489",
+			"dist": "239"
+		},
+		{
+			"stationNm":"돈암사거리.성신여대입구",
+			"gpsX":"127.017839",
+			"stationId":"107000008",
+			"gpsY":"37.593306",
+			"arsId":"08008",
+			"dist": "410"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.079252",
+			"stationNm": "동아자동차운전학원앞",
+			"gpsY": "37.545262",
+			"stationId": "104000290",
+			"arsId": "05233",
+			"dist": "289"
+		},
+		{
+			"gpsX": "127.075068",
+			"stationNm": "건국대학교앞",
+			"gpsY": "37.538747",
+			"stationId": "104000087",
+			"arsId": "05180",
+			"dist": "366"
+		},
+		{
+			"stationNm":"건대입구역사거리.건대병원",
+			"gpsX":"127.071312",
+			"stationId":"104000139",
+			"gpsY":"37.54096",
+			"arsId":"05232",
+			"dist":"350"
+		}
+	]
+}

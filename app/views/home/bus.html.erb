@@ -1,0 +1,132 @@
+<script>
+$(function(){
+    $(".check_bus").click(function() {
+      route_id = this.value;
+      console.log(route_id);
+      bus_id = $("input[name=bus_"+route_id+"]").val();
+      sta_id = $("input[name=station_"+route_id+"]").val();
+      
+      var bus_value = $('input[name=bus_'+route_id+']');
+      var sta_value = $('input[name=station_'+route_id+']');
+      var size = bus_value.length;
+      
+      var bus_array = [];
+      var sta_array = [];
+      for(i=0;i<size;i++){ 
+          bus_array.push(bus_value.eq(i).attr("value"));
+          sta_array.push(sta_value.eq(i).attr("value"));
+      }
+      console.log(bus_array);
+      console.log(sta_array);
+      
+      $.ajax({
+        method: "POST",
+        url: "/home/result",
+        data: {bus_route_id: bus_array, station_id: sta_array },
+        success: function(msg) {
+          alert(msg);
+        },
+        error: function() {
+          alert("실패");
+        }
+      })
+    });
+    
+    
+    $(".time_support").click(function() {
+      route_id = this.value;
+      var from_univ = "<%=@f_univ %>";
+      var to_univ = "<%=@t_univ %>";
+      bus_id = $("input[name=bus_"+route_id+"]").val();
+      sta_id = $("input[name=station_"+route_id+"]").val();
+      
+      var bus_value = $('input[name=bus_'+route_id+']');
+      var sta_value = $('input[name=station_'+route_id+']');
+      var size = bus_value.length;
+      
+      var bus_array = [];
+      var sta_array = [];
+      for(i=0;i<size;i++){ 
+          bus_array.push(bus_value.eq(i).attr("value"));
+          sta_array.push(sta_value.eq(i).attr("value"));
+      }
+      
+      var type=1;
+      console.log(bus_array);
+      console.log(sta_array);
+      $.ajax({
+        method: "POST",
+        url: "/support",
+        data: {error_type: type, funiv_id: from_univ, tuniv_id: to_univ,
+               bus_data: bus_array, sta_data: sta_array, route_index: route_id},
+        success: function(msg) {
+          alert(msg);
+        },
+        error: function(msg) {
+          alert(msg);
+        }
+      })
+    });
+    
+    
+    $(".route_support").click(function() {
+      var from_univ = "<%=@f_univ %>";
+      var to_univ = "<%=@t_univ %>";
+      var type = 2;
+      $.ajax({
+        method: "POST",
+        url: "support",
+        data: {error_type: type, funiv_id: from_univ, tuniv_id: to_univ},
+        success: function(msg) {
+          alert(msg);
+        },
+        error: function(msg) {
+          alert(msg);
+        }
+      })
+    });
+})
+</script>
+<div class="container text-center" style="margin-top: 30px;">
+<div class="well well-sm">
+  <h3> <%= @f_univ %> → <%= @t_univ %></h3>
+  <p>** 도착시간 확인에 실패하거나 노선 정보가 부족하면 오류정보를 보내주세요 **</p>
+  <p>** 메시지를 작성할 필요없이 버튼만 눌러주시면 되요 **</p>
+</div>
+<% @path_list.each_with_index do |x, index| %>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+      <% puts x %>
+        <% Array.wrap(x.values[1]).each do |station| %>
+          <h4>
+            <% if(@num_pattern.match(station["routeNm"]).to_s == ("간선")) %>
+              <span class="label label-primary">
+                <%= @num_pattern.match(station["routeNm"]) %>
+              </span>
+            <% elsif(@num_pattern.match(station["routeNm"]).to_s == ("지선")) %>
+              <span class="label label-success">
+                <%= @num_pattern.match(station["routeNm"]) %>
+              </span>
+            <% else %>
+              <span class="label label-success">
+                마을
+              </span>
+            <% end %>
+            &nbsp;<%= @bus_pattern.match(station["routeNm"]).to_s %>
+            (<%= @sta_pattern.match(station["fname"]).to_s %>&nbsp; >>&nbsp;
+            <%= @sta_pattern.match(station["tname"]).to_s %>) 
+            <input type="hidden" name="station_<%=index%>" class="station_<%=index%>" value="<%= @sta_num_pattern.match(station["fname"]).to_s %>">
+            <input type="hidden" name="bus_<%=index%>" class="bus_<%=index%>" value="<%= @bus_pattern.match(station["routeNm"]).to_s %>">
+          </h4>
+        <% end %>
+      </div>
+      <div class="panel-body">
+        <a href="#" class="btn btn-info disabled">약 <%= x.values[0].insert(-4, ".").chop %> Km</a> 
+        <a href="#" class="btn btn-warning disabled">약 <%= x.values[2] %>분 소요</a>
+        <button type="submit" value="<%=index%>" class="btn btn-success check_bus">도착시간 확인</button>
+        <button type="submit" value="<%=index%>" class="btn btn-default time_support">오류정보 보내기</button>
+      </div>
+    </div>
+<% end %>
+<button type="submit"  class="btn btn-danger route_support">노선 정보가 부족해요</button>
+</div>

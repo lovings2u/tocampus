@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"삼선교.한성대학교",
+			"gpsX":"127.008374",
+			"stationId":"107000010",
+			"gpsY":"37.589313",
+			"arsId":"08010"
+		},
+		{
+			"gpsX": "127.011229",
+			"stationNm": "한성대정문",
+			"gpsY": "37.582563",
+			"stationId": "107900256",
+			"arsId": "08459"
+		}
+	]
+}

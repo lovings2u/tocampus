@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.955232",
+			"stationNm": "중앙여고",
+			"gpsY": "37.562078",
+			"stationId": "112900132",
+			"arsId": "13880",
+			"dist": "38"
+		},
+		{
+			"stationNm":"아현역",
+			"gpsX":"126.954759",
+			"stationId":"113000477",
+			"gpsY":"37.557215",
+			"arsId":"13043",
+			"dist": "181"
+		}
+	]
+}

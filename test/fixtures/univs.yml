@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  fest_s: 2016-05-16
+  fest_e: 2016-05-16
+  lineup: MyString
+  gpsX: MyString
+  gpsY: MyString
+  radius: MyString
+
+two:
+  name: MyString
+  fest_s: 2016-05-16
+  fest_e: 2016-05-16
+  lineup: MyString
+  gpsX: MyString
+  gpsY: MyString
+  radius: MyString

@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"이대역",
+			"gpsX":"126.947271",
+			"stationId":"113000411",
+			"gpsY":"37.556876",
+			"arsId":"13025"
+		},
+		{
+			"gpsX": "126.946501",
+			"stationNm": "이대전철역",
+			"gpsY": "37.556957",
+			"stationId": "112900055",
+			"arsId": "13661"
+		}
+	]
+}

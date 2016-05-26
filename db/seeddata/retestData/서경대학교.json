@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.011699",
+			"stationNm": "서경대본관",
+			"gpsY": "37.615595",
+			"stationId": "107000275",
+			"arsId": "08373"
+		},
+		{
+			"stationNm":"KEB하나은행정릉동지점",
+			"gpsX":"127.008902",
+			"stationId":"107000076",
+			"gpsY":"37.611077",
+			"arsId":"08166"
+		}
+	]
+}

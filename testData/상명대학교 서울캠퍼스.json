@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.956715",
+			"stationNm": "상명초등학교",
+			"gpsY": "37.600924",
+			"stationId": "100900112",
+			"arsId": "01714",
+			"dist": "23"
+		},
+		{
+			"gpsX": "126.956817",
+			"stationNm": "상명초등학교",
+			"gpsY": "37.600905",
+			"stationId": "100900170",
+			"arsId": "01861",
+			"dist": "34"
+		}
+	]
+}

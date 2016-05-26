@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"고려대이공대",
+			"gpsX":"127.026075",
+			"stationId":"107000203",
+			"gpsY":"37.58608",
+			"arsId":"08299"
+		},
+		{
+			"gpsX": "127.034774",
+			"stationNm": "고려대학교앞",
+			"gpsY": "37.588147",
+			"stationId": "105000089",
+			"arsId": "06175"
+		}
+	]
+}

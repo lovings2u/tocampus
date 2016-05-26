@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.011229",
+			"stationNm": "한성대정문",
+			"gpsY": "37.582563",
+			"stationId": "107900256",
+			"arsId": "08459",
+			"dist": "77"
+		},
+		{
+			"gpsX": "127.01117",
+			"stationNm": "한양슈퍼앞",
+			"gpsY": "37.583468",
+			"stationId": "107900004",
+			"arsId": "08474",
+			"dist": "90"
+		}
+	]
+}

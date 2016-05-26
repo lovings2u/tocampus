@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.052247",
+			"stationNm": "경희대의료원",
+			"gpsY": "37.594062",
+			"stationId": "105900050",
+			"arsId": "06510",
+			"dist": "189"
+		},
+		{
+			"gpsX": "127.056343",
+			"stationNm": "경희중고",
+			"gpsY": "37.594651",
+			"stationId": "105900007",
+			"arsId": "06567",
+			"dist": "282"
+		}
+	]
+}

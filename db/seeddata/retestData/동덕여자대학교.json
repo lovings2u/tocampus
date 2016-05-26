@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"한국과학기술연구원입구",
+			"gpsX":"127.04488",
+			"stationId":"107000045",
+			"gpsY":"37.60426",
+			"arsId":"08135"
+		},
+		{
+			"stationNm":"생명의전화",
+			"gpsX":"127.037457",
+			"stationId":"107000194",
+			"gpsY":"37.604394",
+			"arsId":"08290"
+		}
+	]
+}

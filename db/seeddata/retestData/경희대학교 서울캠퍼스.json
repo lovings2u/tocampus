@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"경희대입구",
+			"gpsX":"127.052919",
+			"stationId":"105000184",
+			"gpsY":"37.591279",
+			"arsId":"06270"
+		},
+		{
+			"gpsX": "127.056427",
+			"stationNm": "경희중고",
+			"gpsY": "37.594359",
+			"stationId": "105900024",
+			"arsId": "06509"
+		}
+	]
+}

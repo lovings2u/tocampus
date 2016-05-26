@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.132753",
+			"stationNm": "보성중고등학교",
+			"gpsY": "37.519358",
+			"stationId": "123000153",
+			"arsId": "24243"
+		},
+		{
+			"gpsX": "127.133483",
+			"stationNm": "보성중고등학교",
+			"gpsY": "37.519534",
+			"stationId": "123000152",
+			"arsId": "24242"
+		}
+	]
+}

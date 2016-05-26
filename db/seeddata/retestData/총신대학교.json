@@ -1,0 +1,15 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.966405",
+			"stationNm": "총신대",
+			"gpsY": "37.487752",
+			"stationId": "119000082",
+			"arsId": "20175"
+		}
+	]
+}

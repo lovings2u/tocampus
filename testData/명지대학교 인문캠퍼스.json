@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.923549",
+			"stationNm": "명지대",
+			"gpsY": "37.579137",
+			"stationId": "112000111",
+			"arsId": "13194",
+			"dist": "77"
+		},
+		{
+			"gpsX": "126.921984",
+			"stationNm": "명지대사거리연가초교입구",
+			"gpsY": "37.578246",
+			"stationId": "112000110",
+			"arsId": "13193",
+			"dist": "168"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.951543",
+			"stationNm": "경영대",
+			"gpsY": "37.466006",
+			"stationId": "120000180",
+			"arsId": "21282"
+		},
+		{
+			"stationNm":"농생대",
+			"gpsX":"126.949388",
+			"stationId":"120000191",
+			"gpsY":"37.457113",
+			"arsId":"21293"
+		}
+	]
+}

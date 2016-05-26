@@ -1,0 +1,29 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.075068",
+			"stationNm": "건국대학교앞",
+			"gpsY": "37.538747",
+			"stationId": "104000087",
+			"arsId": "05180"
+		},
+		{
+			"gpsX": "127.078659",
+			"stationNm": "자양초등학교앞",
+			"gpsY": "37.537844",
+			"stationId": "104000085",
+			"arsId": "05178"
+		},
+		{
+			"stationNm":"건대입구역사거리.건대병원",
+			"gpsX":"127.071312",
+			"stationId":"104000139",
+			"gpsY":"37.54096",
+			"arsId":"05232"
+		}
+	]
+}

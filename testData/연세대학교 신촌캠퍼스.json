@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.937019",
+			"stationNm": "연세로.명물거리",
+			"gpsY": "37.55793",
+			"stationId": "112000062",
+			"arsId": "13145",
+			"dist": "62"
+		},
+		{
+			"gpsX": "126.9357",
+			"stationNm": "연세대앞",
+			"gpsY": "37.559935",
+			"stationId": "112000012",
+			"arsId": "13012",
+			"dist": "157"
+		}
+	]
+}

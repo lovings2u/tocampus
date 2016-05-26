@@ -1,0 +1,298 @@
+{
+	"result" : [
+		{
+			"name" : "건국대학교 서울캠퍼스",
+			"fest_s" : "2016-05-11", "fest_e" : "2016-05-13",
+			"lineup" : "길구봉구, 싸이, 마마무, 긱스",
+			"gpsX" : "127.077873", "gpsY" : "37.541609",
+			"univ_mark": "konkuk.jpg",
+			"radius" : "450"
+		},
+		{
+			"name" : "경기대학교 서울캠퍼스",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "126.962357", "gpsY" : "37.564974",
+			"univ_mark": "kyunggi.jpg",
+			"radius" : "140"
+		},
+		{
+			"name" : "경희대학교 서울캠퍼스",
+			"fest_s" : "2016-05-25", "fest_e" : "2016-05-27",
+			"lineup" : "마마무, 스틸하트 밀젠코",
+			"gpsX" : "127.-05-3821", "gpsY" : "37.595128",
+			"univ_mark": "kyunghee.jpg",
+			"radius" : "240"
+		},
+		{
+			"name" : "고려대학교 안암캠퍼스",
+			"fest_s" : "2016-05-23", "fest_e" : "2016-05-27",
+			"lineup" : "당일공개",
+			"gpsX" : "127.032645", "gpsY" : "37.588994",
+			"univ_mark": "korea.jpg",
+			"radius" : "250"
+		},
+		{
+			"name" : "광운대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.-05-9267", "gpsY" : "37.619611",
+			"univ_mark": "kwangwoon.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "국민대학교",
+			"fest_s" : "2016-05-17", "fest_e" : "2016-05-20",
+			"lineup" : "",
+			"gpsX" : "126.996420", "gpsY" : "37.610835",
+			"univ_mark": "kookmin.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "덕성여자대학교",
+			"fest_s" : "2016-05-25", "fest_e" : "2016-05-27",
+			"lineup" : "",
+			"gpsX" : "127.016775", "gpsY" : "37.650709",
+			"univ_mark": "duksung.png",
+			"radius" : "250"
+		},
+		{
+			"name" : "동국대학교 서울캠퍼스",
+			"fest_s" : "2016-05-24", "fest_e" : "2016-05-24",
+			"lineup" : "",
+			"gpsX" : "127.001152", "gpsY" : "37.560376",
+			"univ_mark": "dongguk.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "동덕여자대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.042355", "gpsY" : "37.606660",
+			"univ_mark": "dongduk.jpg",
+			"radius" : "160"
+		},
+		{
+			"name" : "명지대학교 인문캠퍼스",
+			"fest_s" : "2016-05-17", "fest_e" : "2016-05-19",
+			"lineup" : "홍진영, 그레이, 사이먼디, 아놀드홍, 소심한오빠들, 레드벨벳, DJ Party with MAXIM, 배드키즈",
+			"gpsX" : "126.923083", "gpsY" : "37.579981",
+			"univ_mark": "myongii.png",
+			"radius" : "200"
+		},
+		{
+			"name" : "삼육대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.107545", "gpsY" : "37.641800",
+			"univ_mark": "sahmyook.jpg",
+			"radius" : "380"
+		},
+		{
+			"name" : "상명대학교 서울캠퍼스",
+			"fest_s" : "2016-05-18", "fest_e" : "2016-05-20",
+			"lineup" : "박명수, 도끼, 더콰이엇, 레인보우, 레이샤",
+			"gpsX" : "126.956510", "gpsY" : "37.600913",
+			"univ_mark": "sangmyung.jpg",
+			"radius" : "50"
+		},
+		{
+			"name" : "서강대학교",
+			"fest_s" : "2016-05-17", "fest_e" : "2016-05-21",
+			"lineup" : "레인보우, 버즈, 다이나믹 듀오",
+			"gpsX" : "126.941064", "gpsY" : "37.550741",
+			"univ_mark": "sogang.jpg",
+			"radius" : "240"
+		},
+		{
+			"name" : "서경대학교",
+			"fest_s" : "2016-05-11", "fest_e" : "2016-05-13",
+			"lineup" : "",
+			"gpsX" : "127.013358", "gpsY" : "37.614503",
+			"univ_mark": "seokyeong.jpg",
+			"radius" : "150"
+		},
+		{
+			"name" : "서울과학기술대학교",
+			"fest_s" : "2016-05-18", "fest_e" : "2016-05-20",
+			"lineup" : "",
+			"gpsX" : "127.078129", "gpsY" : "37.631442",
+			"univ_mark": "seoultech.jpg",
+			"radius" : "100"
+		},
+		{
+			"name" : "서울교육대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.016133", "gpsY" : "37.490013",
+			"univ_mark": "education.jpg",
+			"radius" : "170"
+		},
+		{
+			"name" : "서울대학교 관악캠퍼스",
+			"fest_s" : "2016-05-10", "fest_e" : "2016-05-12",
+			"lineup" : "김사월, 김해원, APACHI, 빈지노",
+			"gpsX" : "126.952353", "gpsY" : "37.464377",
+			"univ_mark": "seoul.jpg",
+			"radius" : "210"
+		},
+		{
+			"name" : "서울시립대학교",
+			"fest_s" : "2016-05-17", "fest_e" : "2016-05-20",
+			"lineup" : "박보람, 로꼬, 그레이, 크러쉬, 도끼, 더콰이엇, 러블리즈",
+			"gpsX" : "127.-05-5977", "gpsY" : "37.584172",
+			"univ_mark": "seoulofuniversity.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "서울여자대학교",
+			"fest_s" : "2016-05-18", "fest_e" : "2016-05-20",
+			"lineup" : "딕퍽스, 매드크라운, 참깨와 솜사탕",
+			"gpsX" : "127.090124", "gpsY" : "37.627671",
+			"univ_mark": "seoulwomen.jpg",
+			"radius" : "420"
+		},
+		{
+			"name" : "성균관대학교 인문사회캠퍼스",
+			"fest_s" : "2016-05-17", "fest_e" : "2016-05-19",
+			"lineup" : "장미여관, 로꼬, 박재범, 윤도현밴드, 긱스, IOI, 휘성, 거미, 에일리, 기리보이, 바스코, 빈지노, 도끼, 더콰이엇, 타이거JK, 윤미래, DJ KOO",
+			"gpsX" : "126.996798", "gpsY" : "37.584883",
+			"univ_mark": "sungkyunkwan.jpg",
+			"radius" : "240"
+		},
+		{
+			"name" : "성신여자대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.021863", "gpsY" : "37.591327",
+			"univ_mark": "sungshin.jpg",
+			"radius" : "250"
+		},
+		{
+			"name" : "세종대학교",
+			"fest_s" : "2016-05-09", "fest_e" : "2016-05-12",
+			"lineup" : "IOI, 나인뮤지스, 10CM, 델리민주, 거미, 케빈오, 천단비, 에픽하이, DJ Party",
+			"gpsX" : "127.074695", "gpsY" : "37.550107",
+			"univ_mark": "sejong.jpg",
+			"radius" : "150"
+		},
+		{
+			"name" : "숙명여자대학교",
+			"fest_s" : "2016-05-26", "fest_e" : "2016-05-27",
+			"lineup" : "로이킴, 장기하와 얼굴들",
+			"gpsX" : "126.964801", "gpsY" : "37.545112",
+			"univ_mark": "sookmyung.jpg",
+			"radius" : "150"
+		},
+		{
+			"name" : "숭실대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "126.956600", "gpsY" : "37.496630",
+			"univ_mark": "soongsil.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "연세대학교 신촌캠퍼스",
+			"fest_s" : "2016-05-19", "fest_e" : "2016-05-20",
+			"lineup" : "당일공개",
+			"gpsX" : "126.936956", "gpsY" : "37.558857",
+			"univ_mark": "yonsei.jpg",
+			"radius" : "140"
+		},
+		{
+			"name" : "이화여자대학교",
+			"fest_s" : "2016-05-18", "fest_e" : "2016-05-20",
+			"lineup" : "",
+			"gpsX" : "126.945661", "gpsY" : "37.559130",
+			"univ_mark": "ewha.png.jpg",
+			"radius" : "250"
+		},
+		{
+			"name" : "중앙대학교 서울캠퍼스",
+			"fest_s" : "2016-05-25", "fest_e" : "2016-05-27",
+			"lineup" : "",
+			"gpsX" : "126.959247", "gpsY" : "37.506555",
+			"univ_mark": "chungang.jpg",
+			"radius" : "130"
+		},
+		{
+			"name" : "총신대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "126.968061", "gpsY" : "37.488410",
+			"univ_mark": "chongshin.jpg",
+			"radius" : "150"
+		},
+		{
+			"name" : "추계예술대학교",
+			"fest_s" : "2016-05-11", "fest_e" : "2016-05-13",
+			"lineup" : "로맨틱펀치, 긱스",
+			"gpsX" : "126.954892", "gpsY" : "37.562132",
+			"univ_mark": "chugye.jpg",
+			"radius" : "70"
+		},
+		{
+			"name" : "한국성서대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.064079", "gpsY" : "37.648737",
+			"univ_mark": "korean_bible.jpg",
+			"radius" : "180"
+		},
+		{
+			"name" : "한국예술종합학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.-05-5996", "gpsY" : "37.606583",
+			"univ_mark": "national_art.jpg",
+			"radius" : "290"
+		},
+		{
+			"name" : "한국외국어대학교 서울캠퍼스",
+			"fest_s" : "2016-05-23", "fest_e" : "2016-05-24",
+			"lineup" : "",
+			"gpsX" : "127.-05-9109", "gpsY" : "37.597-05-5",
+			"univ_mark": "foreign_studies.jpg",
+			"radius" : "120"
+		},
+		{
+			"name" : "한국체육대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.131654", "gpsY" : "37.519640",
+			"univ_mark": "hankookcheyuk.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "한성대학교",
+			"fest_s" : "", "fest_e" : "",
+			"lineup" : "",
+			"gpsX" : "127.01-05-41", "gpsY" : "37.582610",
+			"univ_mark": "hansung.jpg",
+			"radius" : "100"
+		},
+		{
+			"name" : "한양대학교 서울캠퍼스",
+			"fest_s" : "2016-05-24", "fest_e" : "2016-05-27",
+			"lineup" : "",
+			"gpsX" : "127.042967", "gpsY" : "37.558351",
+			"univ_mark": "hanyang.jpg",
+			"radius" : "200"
+		},
+		{
+			"name" : "홍익대학교 서울캠퍼스",
+			"fest_s" : "2016-05-18", "fest_e" : "2016-05-20",
+			"lineup" : "",
+			"gpsX" : "126.924313", "gpsY" : "37.552706",
+			"univ_mark": "hongik.jpg",
+			"radius" : "60"
+		}
+	]
+}
+
+	
+
+	
+	
+	

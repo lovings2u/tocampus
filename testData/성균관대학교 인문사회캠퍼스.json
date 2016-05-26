@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"혜화역.동성중고(장면총리가옥)",
+			"gpsX":"127.001718",
+			"stationId":"100000133",
+			"gpsY":"37.58457",
+			"arsId":"01229",
+			"dist": "328"
+		},
+		{
+			"gpsX": "126.999399",
+			"stationNm": "명륜동2가.성균관대입구",
+			"gpsY": "37.583333",
+			"stationId": "100000131",
+			"arsId": "01227",
+			"dist": "307"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"외대앞",
+			"gpsX":"127.059768",
+			"stationId":"105000043",
+			"gpsY":"37.595481",
+			"arsId":"06127"
+		},
+		{
+			"stationNm":"외대앞역",
+			"gpsX":"127.062614",
+			"stationId":"105900056",
+			"gpsY":"37.595471",
+			"arsId":"06539"
+		}
+	]
+}

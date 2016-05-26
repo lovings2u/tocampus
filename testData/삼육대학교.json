@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.108299",
+			"stationNm": "삼육대앞",
+			"gpsY": "37.638778",
+			"stationId": "110000055",
+			"arsId": "11155",
+			"dist": "219"
+		},
+		{
+			"gpsX": "127.111793",
+			"stationNm": "삼육대후문.논골.한화아파트",
+			"gpsY": "37.644576",
+			"stationId": "222001597",
+			"arsId": "42101",
+			"dist": "507"
+		}
+	]
+}

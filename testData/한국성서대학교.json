@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.062882",
+			"stationNm": "백병원",
+			"gpsY": "37.648018",
+			"stationId": "110000157",
+			"arsId": "11257",
+			"dist": "141"
+		},
+		{
+			"gpsX": "127.062765",
+			"stationNm": "중계역",
+			"gpsY": "37.647269",
+			"stationId": "110000669",
+			"arsId": "11833",
+			"dist": "176"
+		}
+	]
+}

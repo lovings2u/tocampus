@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "126.924641",
+			"stationNm": "홍익대학교",
+			"gpsY": "37.553071",
+			"stationId": "113000142",
+			"arsId": "14233",
+			"dist": "44"
+		},
+		{
+			"stationNm":"홍대입구역",
+			"gpsX":"126.923298",
+			"stationId":"113000422",
+			"gpsY":"37.556401",
+			"arsId":"14015",
+			"dist": "189"
+		}
+	]
+}

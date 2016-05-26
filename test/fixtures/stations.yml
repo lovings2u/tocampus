@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  gpsX: MyString
+  stationNm: MyString
+  gpsY: MyString
+  stationId: MyString
+  arsId: MyString
+  dist: MyString
+  univ_id: 
+
+two:
+  gpsX: MyString
+  stationNm: MyString
+  gpsY: MyString
+  stationId: MyString
+  arsId: MyString
+  dist: MyString
+  univ_id: 

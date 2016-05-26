@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.04332",
+			"stationNm": "한양대정문앞",
+			"gpsY": "37.556773",
+			"stationId": "103000031",
+			"arsId": "04130"
+		},
+		{
+			"stationNm":"한양대부속고등학교",
+			"gpsX":"127.041155",
+			"stationId":"103000027",
+			"gpsY":"37.560388",
+			"arsId":"04126"
+		}
+	]
+}

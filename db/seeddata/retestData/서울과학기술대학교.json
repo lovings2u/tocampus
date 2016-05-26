@@ -1,0 +1,22 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"stationNm":"서울과학기술대앞",
+			"gpsX":"127.076083",
+			"stationId":"110000317",
+			"gpsY":"37.630557",
+			"arsId":"11418"
+		},
+		{
+			"stationNm":"서울과학기술대학교후문",
+			"gpsX":"127.08302",
+			"stationId":"110000693",
+			"gpsY":"37.631042",
+			"arsId":"11172"
+		}
+	]
+}

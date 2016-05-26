@@ -1,0 +1,24 @@
+{
+	"error": {
+		"errorMessage": "성공",
+		"errorCode": "0000"
+	},
+	"resultList": [
+		{
+			"gpsX": "127.058798",
+			"stationNm": "광운대학교",
+			"gpsY": "37.620337",
+			"stationId": "110000185",
+			"arsId": "11285",
+			"dist": "71"
+		},
+		{
+			"gpsX": "127.058146",
+			"stationNm": "광운대학교",
+			"gpsY": "37.619843",
+			"stationId": "110000234",
+			"arsId": "11335",
+			"dist": "126"
+		}
+	]
+}
