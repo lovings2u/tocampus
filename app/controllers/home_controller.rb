@@ -6,7 +6,8 @@ class HomeController < ApplicationController
   end
   def bus
     route = Station.get_route_data(params[:from], params[:to])
-    
+    puts "here"
+    puts route
     @path_list = Array.wrap(route)
     
     puts @path_list
@@ -51,7 +52,7 @@ class HomeController < ApplicationController
         else 
       end
     rescue
-      @result_message = "오류정보 전송이 실패하였습니다.\n다시 시도해주세요.\n 감사합니다."
+      @result_message = "오류정보 전송이 실패하였습니다.\n다시 시도해주세요.\n감사합니다."
     end
     render text: @result_message
   end

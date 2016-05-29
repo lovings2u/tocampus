@@ -5,11 +5,11 @@
 	},
 	"resultList": [
 		{
-			"gpsX": "126.939854",
-			"stationNm": "광성중고등학교",
-			"gpsY": "37.548906",
-			"stationId": "113000082",
-			"arsId": "14173"
+			"stationNm":"서강대학교",
+			"gpsX":"126.937963",
+			"stationId":"113000079",
+			"gpsY":"37.551055",
+			"arsId":"14170"
 		},
 		{
 			"stationNm":"서강대학교후문",

@@ -11,8 +11,8 @@ class Station < ActiveRecord::Base
             t_univ_data.each do |t_univ|
                 uri = uri+"&startX=#{f_univ.gpsX}&startY=#{f_univ.gpsY}&endX=#{t_univ.gpsX}&endY=#{t_univ.gpsY}&numOfRows=999&pageNo=1"
                 result_hash = Hash.from_xml(HTTP.get(URI.parse(uri)).to_s)
-                next if(result_hash["ServiceResult"]["msgBody"].nil?)
-                now_count = result_hash["ServiceResult"]["msgBody"]["itemList"].count
+                next if(result_hash["ServiceResult"]["msgHeader"]["itemCount"] == "0")
+                now_count = result_hash["ServiceResult"]["msgHeader"]["itemCount"]
                 if(now_count > pre_count)
                     @result = result_hash["ServiceResult"]["msgBody"]["itemList"]
                 end

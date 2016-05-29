@@ -91,7 +91,8 @@ $(function(){
 <div class="well well-sm">
   <h3> <%= @f_univ %> → <%= @t_univ %></h3>
   <p>** 도착시간 확인에 실패하거나 노선 정보가 부족하면 오류정보를 보내주세요 **</p>
-  <p>** 메시지를 작성할 필요없이 버튼만 눌러주시면 되요 **</p>
+  <p>** 메시지를 작성할 필요없이 버튼만 눌러주시면 됩니다 **</p>
+  <p>** 버튼은 한번만 눌러주세요. 늦어도 천천히 됩니다. 부탁드려요 ^^ **</p>
 </div>
 <% @path_list.each_with_index do |x, index| %>
     <div class="panel panel-info">
@@ -128,5 +129,5 @@ $(function(){
       </div>
     </div>
 <% end %>
-<button type="submit"  class="btn btn-danger route_support">노선 정보가 부족해요</button>
+<button type="submit" class="btn btn-danger route_support" style="margin-bottom: 25px;">노선 정보가 부족해요</button>
 </div>
